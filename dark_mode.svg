@@ -76,7 +76,7 @@
 <rect class="bar" style="--d:-0.73s;--s:0.94s" x="313.2" y="437" width="7" height="53" rx="3.5" fill="#ff3b4e" opacity="0.62"/>
 </g>
 <text class="mono m" x="52" y="502" font-size="10" letter-spacing="1.2" opacity=".0"> </text>
-<text class="mono hd" x="440" y="62" xml:space="preserve"><tspan fill="#f4f2f2">eftihis</tspan><tspan class="k">@</tspan><tspan fill="#f4f2f2">papasifakis.gr</tspan><tspan class="cur k"> █</tspan></text>
+<text class="mono hd" x="440" y="62" xml:space="preserve"><tspan fill="#f4f2f2">eftihis</tspan><tspan class="k">@</tspan><tspan fill="#f4f2f2">papasifakis</tspan><tspan class="m">:~$ </tspan><tspan class="v">whoami</tspan><tspan class="cur k"> █</tspan></text>
 <rect x="440" y="72" width="454" height="2" rx="1" fill="url(#ln)"/>
 <text class="row" style="animation-delay:0.25s" x="440" y="102" xml:space="preserve"><tspan class="k">Uptime:</tspan><tspan class="d" id="age_data_dots"> ................. </tspan><tspan class="v" id="age_data">19 years, 10 months, 19 days</tspan></text>
 <text class="row" style="animation-delay:0.31s" x="440" y="125" xml:space="preserve"><tspan class="k">Studying:</tspan><tspan class="d"> ....................... </tspan><tspan class="v">BSc Computer Science</tspan></text>
