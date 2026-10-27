@@ -78,7 +78,7 @@
 <text class="mono m" x="52" y="502" font-size="10" letter-spacing="1.2" opacity=".0"> </text>
 <text class="mono hd" x="440" y="62" xml:space="preserve"><tspan fill="#15131a">eftihis</tspan><tspan class="k">@</tspan><tspan fill="#15131a">papasifakis</tspan><tspan class="m">:~$ </tspan><tspan class="v">whoami</tspan><tspan class="cur k"> █</tspan></text>
 <rect x="440" y="72" width="454" height="2" rx="1" fill="url(#ln)"/>
-<text class="row" style="animation-delay:0.25s" x="440" y="102" xml:space="preserve"><tspan class="k">Uptime:</tspan><tspan class="d" id="age_data_dots"> ................. </tspan><tspan class="v" id="age_data">19 years, 10 months, 29 days</tspan></text>
+<text class="row" style="animation-delay:0.25s" x="440" y="102" xml:space="preserve"><tspan class="k">Uptime:</tspan><tspan class="d" id="age_data_dots"> .................. </tspan><tspan class="v" id="age_data">19 years, 11 months, 0 days</tspan></text>
 <text class="row" style="animation-delay:0.31s" x="440" y="125" xml:space="preserve"><tspan class="k">Studying:</tspan><tspan class="d"> ....................... </tspan><tspan class="v">BSc Computer Science</tspan></text>
 <text class="row" style="animation-delay:0.37s" x="440" y="148" xml:space="preserve"><tspan class="k">University:</tspan><tspan class="d"> ...................... </tspan><tspan class="v">University of Crete</tspan></text>
 <text class="row" style="animation-delay:0.43s" x="440" y="171" xml:space="preserve"><tspan class="k">Now:</tspan><tspan class="d"> ............................. </tspan><tspan class="v">CARV Lab, FORTH-ICS</tspan></text>
